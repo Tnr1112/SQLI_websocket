@@ -15,7 +15,7 @@ And it has **union based** for SQLite.
 ## Ejemplos/Examples
 
 ### Boolean based (MySQL)
-![Blind based](images/MySQLBlindBased.png)
+![Blind based](images/MySQLBooleanBased.png)
 
 ### Timed based (MySQL)
 ![Timed based](images/MySQLTimedBased.png)
